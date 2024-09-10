@@ -1,2 +1,5 @@
 1. Pros of Agile: Timely delivery and project flexibility. 
   Cons of Agile: Lack of long term prep and potential issues in workflow managment.
+2. Scrum Master: Make sure that their team follows specific steps in the Scrum log and that everythng goes smoothly while that project is going on.
+  Product Owner: Coaches the team and makes sure that all of the project runs smoothly. 
+  While scrum master has their specific rules and tasks they follow for their scrum team, product owner works for the master project for all aspects.
