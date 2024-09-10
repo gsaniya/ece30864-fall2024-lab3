@@ -7,5 +7,7 @@
   Daily stand-up: What they have done this past day and what are you doing today.
   Sprint Review: Demo features and updated backlog information.
   Sprint Planning: Sprint goal information and sprint backlog information.
-
-  
+4. Epic: captures a large body of work that can be broken down into smaller stories.
+  Story: a software system requirement that can be expressed in few short sentences.
+  Bug: smallest unit of work, small things and issues that need to be fixed.
+  Issue: a unit of work that can be tracked through a workflow.
