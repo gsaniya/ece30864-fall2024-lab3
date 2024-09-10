@@ -3,3 +3,9 @@
 2. Scrum Master: Make sure that their team follows specific steps in the Scrum log and that everythng goes smoothly while that project is going on.
   Product Owner: Coaches the team and makes sure that all of the project runs smoothly. 
   While scrum master has their specific rules and tasks they follow for their scrum team, product owner works for the master project for all aspects.
+3. Sprint cycle has daily stand-up, sprint review meetings, and sprint planning meetings along with two other. 
+  Daily stand-up: What they have done this past day and what are you doing today.
+  Sprint Review: Demo features and updated backlog information.
+  Sprint Planning: Sprint goal information and sprint backlog information.
+
+  
