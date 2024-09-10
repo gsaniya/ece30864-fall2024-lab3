@@ -1,1 +1,2 @@
-
+1. Pros of Agile: Timely delivery and project flexibility. 
+  Cons of Agile: Lack of long term prep and potential issues in workflow managment.
